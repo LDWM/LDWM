@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LDWM
-- 👀 I’ve started coding over the last year or so and have enjoyed learning and creaing websites and web development work.
+- 👀 I’ve started coding over the last year or so and have enjoyed learning and creating websites and web development work.
 - 🌱 I’m currently learning HTML, CSS, Java Script, SQL, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
