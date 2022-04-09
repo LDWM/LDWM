@@ -2,7 +2,7 @@
 - 👀 I’ve started coding over the last year or so and have enjoyed learning and creating websites and web development work.
 - 🌱 I’m currently learning HTML, CSS, Java Script, SQL, Python.
 - 💞️ I’m looking to collaborate and learn web devlopment, Python, and SQL.
-- 📫 How to reach me ...
+- 📫 How to reach me: medway.fma@gmail.com
 
 <!---
 LDWM/LDWM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
